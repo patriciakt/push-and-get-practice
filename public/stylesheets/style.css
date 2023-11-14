@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: aliceblue;
+}
+
+a {
+  color: #00b7ff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: lighter;
+}
+
+h1 {
+  color: 15px;
+}
+
+#form {
+  text-align: center;
+  block
+}
+
+#each-book{
+  background-color: white;
+  text-align: center;
+}
+
+#deletebutton{
+  margin-top: 6px;
+}
